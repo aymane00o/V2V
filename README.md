@@ -1,1 +1,2 @@
 # V2V
+Over the past months, I have dedicated significant effort to developing a robust Python codebase that achieves 100% functionality for traffic sign detection, motor control, and information transmission between vehicles. This endeavor involved a meticulous process of collecting and annotating extensive datasets of traffic signs to train an accurate detection model using advanced deep learning techniques such as YOLO (You Only Look Once). I fine-tuned the model parameters and iteratively tested the system to ensure precise and reliable detection under various conditions.
